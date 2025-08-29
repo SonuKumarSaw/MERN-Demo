@@ -1,2 +1,3 @@
 # MERN-Demo
 this is demo for git &amp; github
+Author : Sonu Kumar Saw
